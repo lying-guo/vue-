@@ -1,6 +1,6 @@
 <template>
-    <div>
-        注册组件页面
+    <div id="tmpl">
+        购物车
     </div>
 </template>
 <script>
@@ -8,6 +8,6 @@
 
     }
 </script>
-<script scoped>
+<style scoped>
 
-</script>
+</style>
